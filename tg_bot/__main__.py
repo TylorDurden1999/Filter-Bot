@@ -20,9 +20,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 *Hello* {},*My Name is* *{}*! 
 
-```You You Can Add any kind of Filters to This Bot!```
+```എന്തു ഫിൽറ്ററും ഈ ഞാൻ താങ്ങും!```
 
-*Channel:© @DX_Botz*
+*ആശാന്റെ പണ്ണിപുരയിലെ മറ്റൊരു പരീക്ഷവസ്തു*
+
+*Channel:© @anymoviesontime*
 
 /help for more details..
 """
